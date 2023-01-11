@@ -1,8 +1,9 @@
 - 👋 Hi, I’m 刘易行@EASYGOING45 
-- 👀 I’m interested in 前后端开发、机器学习、自然语言处理
-- 🌱 I’m currently learning PHP
-- 💞️ I’m looking to collaborate on web开发
-- 📫 How to reach me QQ：1505674928
+- 长安大学-2024届毕业生-求职
+- 👀 I’m interested in 后端开发、安全、游戏
+- 🌱 I’m currently learning C++、GoLang
+- 💞️ Already have a girl friend
+- 📫 How to reach me QQ：1505674928 Tel：17706376828 Wechat：XING214826
 - ✨ 就读于长安大学信息工程学院
 - ✨ 与欢行
 <!---
