@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EASYGOING45 
 - 👀 I’m interested in SRE、Python、Django
-- 🌱 I’m currently learning Docker、rest framework
+- 🌱 I’m currently learning Docker、Kubernetes
 - 📫 How to reach me QQ：1505674928 Wechat：XING214826
 - ✨ Tencent Company
 <!---
