@@ -33,6 +33,4 @@
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EASYGOING45&theme=tokyonight)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=EASYGOING45&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&locale=cn)
-
 ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=EASYGOING45&theme=tokyo-night&area=true&hide_border=true)
