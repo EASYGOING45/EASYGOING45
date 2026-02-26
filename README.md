@@ -6,11 +6,11 @@
 
 👋 你好！我是 EASYGOING45
 
-🎓 本科人工智能专业  
-🤖 正在探索 AI Agent 应用  
-📊 从事观测平台开发  
+🎓 AI Major  
+🤖 Exploring AI Agent Applications  
+📊 Working on Observation Platform  
 
-热爱技术，热爱探索，热爱coding~ 🚀
+Love tech, love exploring, love coding~ 🚀
 
 ---
 
@@ -24,14 +24,12 @@
 
 | Project | Stars | Description |
 |---------|-------|-------------|
-| [bk-monitor](https://github.com/TencentBlueKing/bk-monitor) | 75 ⭐ | 蓝鲸监控平台 - 业务观测产品 |
-| [bkmonitor-datalink](https://github.com/TencentBlueKing/bkmonitor-datalink) | 40 ⭐ | 蓝鲸数据链路 - 数据采集与存查 |
+| [bk-monitor](https://github.com/TencentBlueKing/bk-monitor) | 75 ⭐ | BlueKing Monitor |
+| [bkmonitor-datalink](https://github.com/TencentBlueKing/bkmonitor-datalink) | 40 ⭐ | BlueKing DataLink |
 
 ---
 
 ### 📊 Stats
-
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EASYGOING45&theme=tokyonight)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=EASYGOING45&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
 
