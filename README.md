@@ -1,21 +1,20 @@
-# ![Header](https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=150&text=TENET+Studio)
+# ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=TENET)
 
-🏢 **TENET Studio** — Building the Future with AI
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E90FF&width=435&lines=Building+the+Future+with+AI)
 
-Founder of TENET Studio. Building AI agents, automation, and open source projects.
+Founder of TENET Studio — a dev studio focused on AI agents, automation and empowering next-gen developers.
 
----
+Building innovative solutions with AI. No generic projects. If it's been done a thousand times, I'm not interested. I build things that are different.
 
-### 🛠 Skills
+Currently working on:
+- [TENET Studio](https://tenet.example.com) — AI Innovation Studio
+- [OpenClaw](https://openclaw.ai) - Your own personal AI assistant
 
-![Skills](https://skillicons.dev/icons?i=python,go,docker,kubernetes,aws&theme=dark)
+![Skills](https://skillicons.dev/icons?i=python,go,docker,kubernetes,aws)
 
----
 
-### 📈 Activity
+![](https://hit.yhype.me/github/profile?user_id=74183504)
 
-![Activity](https://github-readme-activity-graph.vercel.app/graph?username=EASYGOING45&theme=tokyo-night)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EASYGOING45&theme=tokyonight)
 
----
-
-> **天下为公** — Sun Yat-sen
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=EASYGOING45&theme=tokyo-night)
