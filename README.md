@@ -9,7 +9,7 @@
 🎓 本科人工智能专业  
 🏢 现在腾讯搞事情  
 🤖 正在探索 AI Agent 应用  
-📡 日常搬砖于蓝鲸监控平台  
+📊 从事观测平台开发  
 
 热爱技术，热爱探索，热爱coding~ 🚀
 
@@ -39,4 +39,10 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=EASYGOING45&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
 
-![Activity](https://github-readme-activity-graph.vercel.app/graph?username=EASYGOING45&theme=tokyo-night)
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=EASYGOING45&theme=tokyo-night&area=true&hide_border=true)
+
+---
+
+### 📈 Monthly Contributions
+
+![Monthly](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EASYGOING45&theme=tokyonight)
